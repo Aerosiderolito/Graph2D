@@ -1,1 +1,1 @@
-#GAME
+Read Guide for more information
